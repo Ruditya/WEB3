@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/WEB3/static/css/main.500bb0ab.chunk.css",
+    "main.js": "/WEB3/static/js/main.4705b948.chunk.js",
+    "main.js.map": "/WEB3/static/js/main.4705b948.chunk.js.map",
+    "runtime-main.js": "/WEB3/static/js/runtime-main.4b57216b.js",
+    "runtime-main.js.map": "/WEB3/static/js/runtime-main.4b57216b.js.map",
+    "static/css/2.4b6e3ef2.chunk.css": "/WEB3/static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.b8253ffb.chunk.js": "/WEB3/static/js/2.b8253ffb.chunk.js",
+    "static/js/2.b8253ffb.chunk.js.map": "/WEB3/static/js/2.b8253ffb.chunk.js.map",
+    "index.html": "/WEB3/index.html",
+    "precache-manifest.3469ece136e91ab6338b79c7c9cee4bf.js": "/WEB3/precache-manifest.3469ece136e91ab6338b79c7c9cee4bf.js",
+    "service-worker.js": "/WEB3/service-worker.js",
+    "static/css/2.4b6e3ef2.chunk.css.map": "/WEB3/static/css/2.4b6e3ef2.chunk.css.map",
+    "static/css/main.500bb0ab.chunk.css.map": "/WEB3/static/css/main.500bb0ab.chunk.css.map",
+    "static/js/2.b8253ffb.chunk.js.LICENSE.txt": "/WEB3/static/js/2.b8253ffb.chunk.js.LICENSE.txt",
+    "static/media/tea-cup.svg": "/WEB3/static/media/tea-cup.fdeea1ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b57216b.js",
+    "static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.b8253ffb.chunk.js",
+    "static/css/main.500bb0ab.chunk.css",
+    "static/js/main.4705b948.chunk.js"
+  ]
+}
